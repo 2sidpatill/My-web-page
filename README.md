@@ -1,2 +1,2 @@
 # My-web-page
-this contains me Red Lotus webpage
+this contains my Red Lotus webpage
